@@ -1,0 +1,4 @@
+[submodule "./apps/admin"]
+	url = https://github.com/iyer-venkat/admin.git
+[submodule "./apps/store"]
+	url = https://github.com/iyer-venkat/store.git
