@@ -1,6 +1,6 @@
-[submodule "./apps/admin"]
-	path = ./apps/admin
+[submodule "apps/admin"]
+	path = apps/admin
 	url = https://github.com/iyer-venkat/admin.git
-[submodule "./apps/store"]
-	path = ./apps/store
+[submodule "apps/store"]
+	path = apps/store
 	url = https://github.com/iyer-venkat/store.git
